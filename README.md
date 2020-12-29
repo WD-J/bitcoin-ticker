@@ -11,7 +11,3 @@ Demonstrating conditional REST-API handling, and natively using Cupertino and Ma
 - How to use Cupertino Widgets in your app.
 - How to check the platform your app is being run on to customise the UI for that platform.
 - Revise previous concepts by completing the challenges.
-
-
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp.
